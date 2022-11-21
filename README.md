@@ -7,16 +7,17 @@
   <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deybeatriz&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
-##
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Bea-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Bea-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Bea-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <!--
   <img align="center" alt="Bea-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Bea-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Bea-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-  <img align="right" src="https://i.picasion.com/pic92/25a434d5fdc7320b65a981c347d70689.gif" width="150" height="150" border="0" alt="https://picasion.com/">
+-->
+  <img align="right" src="https://i.picasion.com/pic92/1e4b4923290039086f89de6cb36cf024.gif" width="180" height="180" border="0" alt="Icone">
 </div>
 
 
