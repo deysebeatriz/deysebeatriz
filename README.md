@@ -17,7 +17,7 @@
   <img align="center" alt="Bea-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Bea-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
 -->
-  <img align="right" src="https://i.picasion.com/pic92/1e4b4923290039086f89de6cb36cf024.gif" width="180" height="180" border="0" alt="Icone">
+  <img align="right" src="https://i.picasion.com/pic92/1e4b4923290039086f89de6cb36cf024.gif" width="130" height="130" border="0" alt="Icone">
 </div>
 
 
